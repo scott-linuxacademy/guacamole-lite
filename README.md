@@ -348,3 +348,7 @@ Note that **clientConnection** object is passed to all event listeners and can b
 ## Tests
 
 No tests yet :(
+
+# Fork details
+
+Forked in order to fix some bugs that prevented usage with guacd.
